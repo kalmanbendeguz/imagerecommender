@@ -1,0 +1,26 @@
+.browse-images-button {
+    margin-left: 0.5em;
+}
+
+.switch-user-main {
+    /*background-color: yellow;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.switch-user-card {
+    background-color: beige;
+    border-radius: 8px;
+}
+
+.switch-user-card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.user-id-label {
+    font-size:1.15rem;
+    font-weight: 500;
+}

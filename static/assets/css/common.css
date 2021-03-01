@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-wrapper {
+    display: flex;
+    color: beige;
+    margin-right: 1em;
+}
+
+.user-label {
+    margin-right: 0.5em;
+}
+
+.common-main {
+    flex: 1;
+    /*background-color: blueviolet;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+
+.common-footer {
+    background-color: darkred;
+    color: beige;
+    text-align: center;
+}

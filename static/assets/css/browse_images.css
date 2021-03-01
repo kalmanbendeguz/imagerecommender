@@ -1,0 +1,36 @@
+.switch-user-button {
+    margin-left: 0.5em;
+}
+
+.images-list-container {
+    /*background-color: thistle;*/
+    border-radius: 20px;
+    overflow: hidden;
+    margin-top: 1.15em;
+}
+
+.browsed-image {
+    height: 120px;
+    width: 120px;
+    border-radius: 8px;
+}
+
+.image-cell {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.5rem;
+}
+
+.pagination-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
